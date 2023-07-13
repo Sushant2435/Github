@@ -1,0 +1,8 @@
+git config --global user.name Sushant   ( for set user name)
+git config --global user.email sharmasushant245@gmail.com  ( set email)
+git init - (Initialized empty Git repository in D:/Github/.git/)
+ls -lart (for showing hidden folders)
+
+
+
+
