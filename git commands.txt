@@ -7,6 +7,11 @@ touch about.html
 git add -A (stage all The files)
 git checkout index.html( undu last changes)
 git checkout -f ( undu last of all changes)
+git diff
+
+git diff --staged
+git rm --cached waste.html(remove from stageing area)
+
 
 
 
