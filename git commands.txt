@@ -5,6 +5,9 @@ ls -lart (for showing hidden folders)
 git status
 touch about.html
 git add -A (stage all The files)
+git checkout index.html( undu last changes)
+git checkout -f ( undu last of all changes)
+
 
 
 
