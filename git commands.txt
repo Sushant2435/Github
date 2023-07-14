@@ -21,6 +21,25 @@ git checkout master
 git merge "branch name"
 git checkout -b "branch-name"(for create and switch in new branch)
 
+Github.............
+
+git remote add origin git@github.com:Sushant2435/Github.git
+git remote
+git remote -v
+git push origin master
+ssh-keygen -t ed25519 -C "sharmasushant245@gmail.com"
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+git remote -v
+git push -u origin master
+
+
+
+
+
+
+
 
 
 
