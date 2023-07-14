@@ -11,7 +11,13 @@ git diff
 
 git diff --staged
 git rm --cached waste.html(remove from stageing area)
-
+git status -s(showing working tree)
+git branch "branch-name" (create new branch)
+git branch
+git checkout "branch-name"  
+git checkout master
+git merge "branch name"
+git checkout -b "branch-name"(for create and switch in new branch)
 
 
 
